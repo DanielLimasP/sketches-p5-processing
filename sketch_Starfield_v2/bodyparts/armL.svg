@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg983"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="brazo izquierdo.svg">
+  <defs
+     id="defs977" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata980">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.03527778"
+       inkscape:connector-curvature="0"
+       id="path7278"
+       d="m 66.519741,62.753909 c -2.8575,1.940277 -3.104444,3.351388 -1.975555,11.571111 0.423333,3.139722 0.599722,6.738055 0.599722,10.583333 -0.03528,3.210277 0.105833,7.090833 0.282222,8.643056 1.164167,9.701391 1.552222,12.453051 2.187222,16.227781 0.846667,5.00944 2.434167,10.05416 3.986389,12.59416 1.834444,3.10445 4.586111,3.98639 5.432778,1.79917 0.635,-1.5875 1.481666,-6.27945 1.481666,-8.14917 0,-0.9525 0.282223,-2.36361 0.599723,-3.10444 0.493888,-1.16417 0.599722,-2.71639 0.599722,-9.8425 0,-8.219724 -0.3175,-12.841114 -1.375834,-20.108335 -0.282222,-1.940278 -0.635,-6.314722 -0.811388,-9.736667 -0.282223,-5.820833 -0.352778,-6.279444 -1.234723,-7.796389 -1.834444,-3.139722 -7.020277,-4.550833 -9.771944,-2.68111 z" />
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+shape(body, 110, -180);
+  shape(armR, -70, -120);
+  shape(armL, 390, 50);
+  shape(head, 120, -100);
